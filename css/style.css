@@ -165,11 +165,6 @@ main {
 
 @media only screen and (min-width : 700px) {
 
-    .app {
-
-        display: none;
-
-    }
 
     header {
 
@@ -193,6 +188,17 @@ main {
 
         display: none;
 
+    }
+
+    .contenedorCarrito {
+
+        display: none;
+
+    }
+
+    .mantenimiento {
+
+        display: none;
     }
 
     .desktop h2 {
